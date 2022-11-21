@@ -44,7 +44,8 @@
 // get          // È¡Êý¾Ý
 
 // Non-member class specializations
-// tuple        
+// tuple   
+
 int main()
 {
     std::array<int, 10> arr;
