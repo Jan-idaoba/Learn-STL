@@ -1,0 +1,11 @@
+git 相关指令
+
+git log
+git status
+git merge
+git fetch
+git commit
+git branch -a -vv
+git checkout -b release gitlab/release (创建并且切换到这个分支) 例如：git checkout -b gitlabRelease gitlab/release
+git remote -add （远程仓库的本地名称) (远程仓库的url) 例如：git remote add gitlab git@lfdbldsvr2.lenovo.com:muybridge/windows-plugshare.git
+git reset --hard (回退到的节点的哈希值)
